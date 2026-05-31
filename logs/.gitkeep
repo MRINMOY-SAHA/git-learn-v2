@@ -1,0 +1,2 @@
+# This is used, when we want to keep a directory in git, but we don't want to track any files in it. We can create an empty file named .gitkeep in that directory, and git will keep the directory even though it's empty.
+
