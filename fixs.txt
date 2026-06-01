@@ -7,3 +7,5 @@ Fourth Bug fix detected and fixed.
 fifth Bug fix detected and fixed.
 
 another fix message for pink mode.
+
+another fix message for purple mode.
