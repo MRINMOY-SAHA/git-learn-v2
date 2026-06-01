@@ -1,2 +1,4 @@
 this is my file one for git course
 test comment added in file one
+
+New command one added in file one
